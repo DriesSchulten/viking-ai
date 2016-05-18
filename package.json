@@ -1,0 +1,16 @@
+{
+  "name": "valhalla-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "async": "^2.0.0-rc.5",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
